@@ -1,3 +1,5 @@
 *~
 *.o
 /webcam-capture
+.coddle
+/coddle.cfg/coddle
